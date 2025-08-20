@@ -9,6 +9,7 @@ Aqon AI is an AI that uses Hugging Face models. All of the version of Aqon are b
 4. Aqon 1.1 MAX - Video
 5. Aqon 1.5 PRO - Image
 6. Aqon 1.5 - Object Detection
+7. Aqon 2 PRO - 685B
 
 These are the capabilities of Aqon AI:
 1. Text-to-Text
@@ -16,4 +17,4 @@ These are the capabilities of Aqon AI:
 3. Text-to-Video
 4. Object Detection
 
-Do remember that Aqon AI is still not perfect and the answers may be unethical or wrong. 
+Do remember that Aqon AI is still not perfect and the answers may be unethical or wrong. Also do note that running these models may take upto 30GB or more space. 
